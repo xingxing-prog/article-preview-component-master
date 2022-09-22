@@ -81,12 +81,7 @@ p{
 }
 
 
-#icon-share:hover path {
-    fill:rgb(255, 255, 255);
-}
-
-
-.inside{
+.inside path{
     fill:rgb(255, 255, 255);
 }
 .popup{
@@ -127,6 +122,6 @@ p{
 
 
 .socialIcon{
-    height:20px;
-    width:20px;
+    height:25px;
+    width:25px;
 }

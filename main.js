@@ -8,4 +8,5 @@ share.addEventListener('click',()=>{
     share.style.backgroundColor= "hsl(217, 19%, 35%)";
     icon.style.fill = "white";
     icon.classList.add("inside");
+  
 })
